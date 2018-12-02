@@ -1,0 +1,21 @@
+{
+	"name": "NodejsStarterApp",
+	"version": "0.0.1",
+    "private": true,
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"express": "4.13.x",
+		"cfenv": "1.0.x",
+		"ejs": "~2.4.1",
+		"ibm_db":"0.0.19",
+		"stats-lite":"2.0.1",
+		"node-rest-client":"1.8.0",
+		"curlrequest":"x"
+	},
+	"repository": {},
+	"engines": {
+		"node": "4.2.x"
+	}
+}
